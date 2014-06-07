@@ -1,0 +1,18 @@
+{
+    "name": "kreshnik.brackets-image-dimension-extractor",
+    "title": "Image dimension extractor",
+    "description": "Adds an context menu item called 'get image dimension' with which you can extract width, height from css background images. Simply click inside the background image area, where the filename is right click and click on 'get image dimension' and voila!",
+    "homepage": "selftaughtgeek.wordpress.com",
+    "version": "0.2.0",
+    "author": "Kreshnik Hasanaj <kreshnik.hasanaj@gmail.com> (https://github.com/Kreshnik)",
+    "license": "MIT",
+    "categories":"css",
+    "keywords": [
+        "css",
+        "image",
+        "extract"
+    ],
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
